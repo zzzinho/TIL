@@ -6,7 +6,7 @@
 - [[JPA] 프록시](./JPA/프록시.md)
 - [[JPA] 값 타입](./JPA/값_타입.md)
 - [[JPA] 객체지향 쿼리 언어](./JPA/객체지향_쿼리_언어.md)
-
+-
 ### HTTP 
 - [[HTTP] HTTP 기초](./HTTP/HTTP_웹의_기초.md)
 ## ME
