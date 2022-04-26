@@ -9,5 +9,7 @@
 -
 ### HTTP 
 - [[HTTP] HTTP 기초](./HTTP/HTTP_웹의_기초.md)
+- [[HTTP] 웹 서버](./HTTP/웹_서버.md)
+- [[HTTP] 프록시](./HTTP/프록시.md)
 ## ME
 - [zzzinho](https://github.com/zzzinho)
