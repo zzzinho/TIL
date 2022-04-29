@@ -7,6 +7,7 @@
 - [[JPA] 값 타입](./JPA/값_타입.md)
 - [[JPA] 객체지향 쿼리 언어](./JPA/객체지향_쿼리_언어.md)
 - [[JPA] Spring Data JPA](./JPA/Spring_Data_JPA.md)
+- [[JPA] 웹 어플리케이션과 영속성 관리](./JPA/웹_앱과_영속성_관리.md)
 
 
 ### HTTP 
