@@ -9,6 +9,7 @@
 - [[JPA] Spring Data JPA](./JPA/Spring_Data_JPA.md)
 - [[JPA] 웹 어플리케이션과 영속성 관리](./JPA/웹_앱과_영속성_관리.md)
 - [[JPA] 컬렉션과 부가기능](./JPA/컬렉션과_부가기능.md)
+- [[JPA] 고급 주제와 성능 최적화](./JPA/고급_주제와_성능_최적화.md)
 
 ### HTTP 
 - [[HTTP] HTTP 기초](./HTTP/HTTP_웹의_기초.md)
