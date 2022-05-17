@@ -10,6 +10,9 @@
 - [[HTTP] 캐시](./HTTP/캐시.md)
 - [[HTTP] 게이트웨이,터널,릴레이](./HTTP/게이트웨이_터널_릴레이.md)
 - [[HTTP] HTTP2.0](./HTTP/http_2_0.md)
+- [[HTTP] 클라이언트 식별과 쿠키](./HTTP/클라이언트_식별과_쿠키.md)
+- [[HTTP] 기본인증](./HTTP/기본인증.md)
+- [[HTTP] 보안 HTTP](./HTTP/보안_HTTP.md)
 
 ### JPA
 - [[JPA] 상속관계](./JPA/상속관계.md)
