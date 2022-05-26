@@ -2,8 +2,11 @@
 ## Study Log
 
 ### 토비의 스프링 3.1
-- [[TOBY SPRING] Intro](./TOBY_SPRING3.1/intro.md)
-- [[TOBY SPRING] 오브젝트와 의존관계:DAO](./TOBY_SPRING3.1/오브젝트와_의존관계_DAO.md)
+- [[TOBY SPRING] Intro](./TOBY_SPRING/intro.md)
+- [[TOBY SPRING] 오브젝트와 의존관계:DAO](./TOBY_SPRING/ch1_1_DAO.md)
+- [[TOBY SRPING] 오브젝트와 의존관계:IoC](./TOBY_SPRING/ch1_2_IoC.md)
+- [[TOBY SRPING] 오브젝트와 의존관계:싱글톤](./TOBY_SPRING/ch1_3_Singleton.md)
+
 
 ### HTTP 
 - [[HTTP] HTTP 기초](./HTTP/HTTP_웹의_기초.md)
