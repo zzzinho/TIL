@@ -1,6 +1,6 @@
 # 토비의 스프링 3.1
 ## 📔 교재
-![toby_spring](./assets/toby_spring3.jpg)
+![toby_spring](./assets/toby_spring3.png)
 
 [토비의 스프링 3.1](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960773417&orderClick=&Kc=)
 

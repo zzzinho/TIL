@@ -143,7 +143,7 @@ public class UserDaoTest {
 - ApplicationContext에는 DaoFactory와 달리 직접 오브젝트를 생성하고 관계를 맺어주는 코드가 없고 생성정보와 연관관계 정보는 별도의 설정정보를 통해 얻는다.
 - 오브젝트 팩토리에 작업을 위임하는 경우도 있다.
 
-![ApplicationContext](./assets/applicationContext.jpeg)
+![ApplicationContext](./assets/application_context.jpeg)
 
 - 애플리케이션 컨텍스트는 DaoFactory 클래스를 설정정보로 등록해두고 @Bean이 붙은 메소드의 이름을 가져와서 빈 목록을 만든다.
 - 클라이언트가 애플리케이션 컨텍스르의 getBean() 메소드를 호출하면서 빈을 요청한다. 
