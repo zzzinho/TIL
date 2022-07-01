@@ -8,6 +8,7 @@
 - [[TOBY SPRING] 오브젝트와 의존관계:DI](./TOBY_SPRING/ch1_4_DI.md)
 - [[TOBY SPRING] 오브젝트와 의존관계:XML](./TOBY_SPRING/ch1_5_XML.md)
 - [[TOBY SPRING] 오브젝트와 의존관계:정리](./TOBY_SPRING/ch1_6_정리.md)
+- [[TOBY SPRING] 테스트](./TOBY_SPRING/ch2_Test.md)
 
 ### HTTP 
 - [[HTTP] HTTP 기초](./HTTP/HTTP_웹의_기초.md)
