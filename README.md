@@ -10,6 +10,8 @@
 - [[TOBY SPRING] 오브젝트와 의존관계:정리](./TOBY_SPRING/ch1_6_정리.md)
 - [[TOBY SPRING] 테스트](./TOBY_SPRING/ch2_Test.md)
 
+### 객체지향 사실과 오해
+- [[객체지향 사실과 오해] 정리](./객체지향_사실과_오해/객사오_정리.png)
 ### HTTP 
 - [[HTTP] HTTP 기초](./HTTP/HTTP_웹의_기초.md)
 - [[HTTP] 웹 서버](./HTTP/웹_서버.md)
